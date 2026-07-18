@@ -1,14 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Miraj Ahmad
-
-### 🚀 Python Learner • Android Developer in Progress • Tech Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Learning+Python+%F0%9F%90%8D;Exploring+Android+Development+%F0%9F%93%B1;Building+Ideas+Into+Reality+%F0%9F%9A%80;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Miraj+Ahmad+%F0%9F%91%8B;Python+Learner+%F0%9F%90%8D;Android+Developer+in+Progress+%F0%9F%93%B1;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mailmiraj&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=mailmiraj&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge)
 
 </div>
 
@@ -20,22 +16,17 @@
 class Miraj:
     def __init__(self):
         self.name = "Miraj Ahmad"
-        self.username = "mailmiraj"
         self.location = "Bangladesh 🇧🇩"
         self.education = "BBA Student 🎓"
 
         self.currently_learning = [
-            "Python 🐍",
-            "Android Development 📱",
-            "Web Development 🌐",
-            "Firebase 🔥"
+            "Python 🐍", "Android Development 📱",
+            "Web Development 🌐", "Firebase 🔥"
         ]
 
         self.interests = [
-            "Software Development",
-            "Android Applications",
-            "Web Technologies",
-            "Artificial Intelligence"
+            "Software Development", "Android Applications",
+            "Web Technologies", "Artificial Intelligence"
         ]
 
     def goal(self):
@@ -46,13 +37,15 @@ class Miraj:
 
 ## 🚀 What I'm Doing
 
-- 🐍 Strengthening my **Python Programming** fundamentals
-- 📱 Exploring **Android App Development**
-- 🌐 Learning modern **Web Development**
-- 🔥 Building projects with **Firebase**
-- 🗄️ Exploring **Supabase**
-- 🧠 Improving my **Problem Solving** skills
-- 💻 Turning ideas into real-world projects
+| | |
+|---|---|
+| 🐍 | Strengthening my **Python Programming** fundamentals |
+| 📱 | Exploring **Android App Development** |
+| 🌐 | Learning modern **Web Development** |
+| 🔥 | Building projects with **Firebase** |
+| 🗄️ | Exploring **Supabase** |
+| 🧠 | Improving my **Problem Solving** skills |
+| 💻 | Turning ideas into real-world projects |
 
 <br>
 
@@ -60,10 +53,7 @@ class Miraj:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,js" alt="Programming Languages" />
-
-<br><br>
-
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,js" alt="Programming Languages" /><br><br>
 <img src="https://skillicons.dev/icons?i=androidstudio,firebase,supabase,git,github,vscode" alt="Tools and Technologies" />
 
 </div>
@@ -82,21 +72,12 @@ class Miraj:
 
 <br>
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mailmiraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mailmiraj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://streak-stats.demolab.com/?user=mailmiraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mailmiraj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
 
 </div>
 
@@ -126,7 +107,7 @@ class Miraj:
 
 <div align="center">
 
-### 💻 Code • 📚 Learn • 🛠️ Build • 🚀 Improve
+**💻 Code · 📚 Learn · 🛠️ Build · 🚀 Improve**
 
 > The best way to learn programming is to build something you once thought you couldn't.
 
@@ -138,9 +119,7 @@ class Miraj:
 
 <div align="center">
 
-<a href="https://github.com/mailmiraj">
-  <img src="https://img.shields.io/badge/GitHub-mailmiraj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-mailmiraj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mailmiraj)
 
 </div>
 
@@ -152,65 +131,8 @@ class Miraj:
 
 If you like my projects, consider giving them a ⭐
 
-<br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=mailmiraj&label=Profile%20Views&color=6C63FF&style=flat-square)
 
-<img src="https://komarev.com/ghpvc/?username=mailmiraj&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+**🚀 Keep Learning · Keep Building · Keep Growing**
 
-<br><br>
-
-### 🚀 Keep Learning • Keep Building • Keep Growing
-
-</div>:::
-
-`<br>`{=html}
-
-## 🐍 Contribution Snake
-
-::: {align="center"}
-`<img src="https://raw.githubusercontent.com/mailmiraj/mailmiraj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />`{=html}
-:::
-
-`<br>`{=html}
-
-## 🌌 3D Contribution Calendar
-
-::: {align="center"}
-`<img src="https://raw.githubusercontent.com/mailmiraj/mailmiraj/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />`{=html}
-:::
-
-`<br>`{=html}
-
-## 💡 Developer Philosophy
-
-::: {align="center"}
-### 💻 Code • 📚 Learn • 🛠️ Build • 🚀 Improve
-
-> The best way to learn programming is to build something you once
-> thought you couldn't.
-:::
-
-`<br>`{=html}
-
-## 🤝 Let's Connect
-
-::: {align="center"}
-`<a href="https://github.com/mailmiraj">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-mailmiraj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}
-`</a>`{=html}
-:::
-
-`<br>`{=html}
-
-::: {align="center"}
-### 🌟 Thanks for visiting my profile!
-
-If you like my projects, consider giving them a ⭐
-
-`<br>`{=html}`<br>`{=html}
-
-`<img src="https://komarev.com/ghpvc/?username=mailmiraj&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />`{=html}
-
-`<br>`{=html}`<br>`{=html}
-
-### 🚀 Keep Learning • Keep Building • Keep Growing
-:::
+</div>
